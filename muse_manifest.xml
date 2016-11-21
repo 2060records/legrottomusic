@@ -1,0 +1,42 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="legrotto.html" resolutions="1x" timestamp="1479688764330">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="press.css" crc="3855247382" ref="press"/>
+    <file name="index.css" crc="4159669243" ref="index"/>
+    <file name="music.css" crc="3790935998" ref="music"/>
+    <file name="shows.css" crc="332514141" ref="shows"/>
+    <file name="bio.css" crc="3759922329" ref="bio"/>
+  </folder>
+  <folder name="assets">
+    <file name="index.html" crc="436646939" seo="true" mt="1448938534000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:music:bio:shows:press"/>
+    <file name="museutils.js" crc="183364071" ref="index:music:bio:shows:press"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:music:bio:shows:press"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1242x603.jpg" crc="4067343129" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 657x108.jpg" crc="347551102" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 50x50.jpg" crc="4209880005" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 50x502.jpg" crc="4219684361" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 50x503.jpg" crc="146719302" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 156x86.jpg" crc="3982468359" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 178x86.jpg" crc="85543194" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 50x504.jpg" crc="4205250622" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 50x505.jpg" crc="525565089" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 115x85.jpg" crc="189373043" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 152x86.jpg" crc="3926144875" seo="true" ref="index:music:bio:shows:press"/>
+    <file name="pasted image 1200x796.jpg" crc="3985911124" seo="true" ref="index"/>
+    <file name="pasted image 1680x1032.jpg" crc="3831491584" seo="true" ref="index"/>
+    <file name="pasted image 1343x866.jpg" crc="4102618642" seo="true" ref="index"/>
+    <file name="2016-10-14 044229 1.jpg" crc="4191438107" seo="true" ref="music"/>
+    <file name="2016-10-14 044230 1.jpg" crc="389232865" seo="true" ref="music"/>
+    <file name="pasted image 1680x1035.jpg" crc="24759720" seo="true" ref="shows"/>
+  </folder>
+  <file name="index.html" crc="4173384461" seo="true" mt="1479684728161" redirect="true"/>
+  <file name="music.html" crc="219220291" seo="true" mt="1479685057717" redirect="true"/>
+  <file name="bio.html" crc="29740218" seo="true" mt="1479684127914" redirect="true"/>
+  <file name="shows.html" crc="3866155436" seo="true" mt="1479684585033" redirect="true"/>
+  <file name="press.html" crc="181113109" seo="true" mt="1479681838652" redirect="true"/>
+</manifest>
